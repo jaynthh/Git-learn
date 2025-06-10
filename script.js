@@ -1,0 +1,1 @@
+console.warn("Welcome to GIT Training");
